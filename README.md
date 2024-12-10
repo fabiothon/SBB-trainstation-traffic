@@ -1,7 +1,7 @@
 # Top 15 Swiss train stations based on boardings and alightings
 
 ## Description
-This code provides a visualization of the top 15 Swiss train stations with the highest average daily traffic (boardings and alightings) for the years 2018, 2022, and 2023. Using data from the .parquet file provided by Schweizer Bundes Bahnen (SBB), the script filters and processes information, creating a comparative bar chart to analyse changes in traffic over the selected years.
+This code provides a visualisation of the top 15 Swiss train stations with the highest average daily traffic (boardings and alightings) for the years 2018, 2022, and 2023. Using data from the .parquet file provided by Schweizer Bundes Bahnen (SBB), the script filters and processes information, creating a comparative bar chart to analyse changes in traffic over the selected years.
 
 ## Application Overview
 
